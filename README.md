@@ -3,7 +3,7 @@
 ### 概述
 在自己建立服務平台時，總會有需求是希望使用者來訪問我們的網站，但在作上傳 Object 時又希望可以讓使用者不用透過我們自家的平台，直接傳檔到 Object Storage，如下圖擷取自 AWS，本範例提供 Direct Upload to AWS-S3 and Aliyun-OSS。
 
-![上傳 Object 流程圖](http://github.com/PhelimXue/your-repository/raw/master/your-folder/xxx.png)
+![上傳 Object 流程圖](https://github.com/PhelimXue/direct-to-objectstorage/raw/master/DirectUpload.png)
 
 ### KeyPoint
 - 組合出準備 Sign 的 Policy
